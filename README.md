@@ -8,11 +8,15 @@ I'm particularly interested in engineering at the intersection of **scalable sys
 
 [LinkedIn](https://www.linkedin.com/in/vineeth-subramaniam-j/) · [Email](mailto:vineeth.jaisankar@gmail.com)
 
+---
+
 ## Engineering Highlights
 
 - **Built and scaled production SaaS systems at Swym Technologies** used by millions of shoppers, working across backend services, data workflows, databases, APIs, and customer-facing products.
 - **Redesigned a high-volume shopper segmentation workflow** from synchronous processing to Redis-based asynchronous distributed processing, reducing runtime for 100K shoppers from **7–8 hours to 1–2 hours** while enabling horizontal scalability.
 - **Led the end-to-end development of Nudges**, a personalized marketing automation platform, from early development through production and go-to-market, contributing to approximately **$520K in revenue across 25 pilot merchants**.
+
+---
 
 ## Featured Projects
 
@@ -24,7 +28,7 @@ A production-inspired, event-driven platform that transforms merchant, shopper, 
 - Engineered reliable **Kafka-based event processing** with versioned Pydantic contracts, idempotent processing, controlled offset commits, and dead-letter queue isolation, preserving event history alongside authoritative operational state in PostgreSQL.
 - Built a decoupled **analytics and derived-data architecture** with scheduled, idempotent processing, historical point-in-time state reconstruction, and incremental regeneration of changed entities while preserving reproducibility from source data.
 - Exposed operational and analytical intelligence through **typed FastAPI APIs and React/TypeScript dashboards**, with merchant, platform, feature, and campaign analytics and end-to-end validation from generated business activity to visualization.
-- Building toward **evidence-grounded AI investigations** using controlled business tools, exact and semantic retrieval, LangGraph, Qdrant, and an AI Gateway — keeping deterministic business data authoritative while AI assists with investigation and explanation.
+- Currently extending the platform toward **evidence-grounded AI investigations** using controlled business tools, exact and semantic retrieval, LangGraph, Qdrant, and an AI Gateway — keeping deterministic business data authoritative while AI assists with investigation and explanation.
 
 **Tech:** Python · FastAPI · Apache Kafka · PostgreSQL · React · TypeScript · Docker · LangGraph · Qdrant
 
@@ -52,7 +56,7 @@ Built at the **Honeywell Aerospace Devils Invent Hackathon**, AeroTrace analyzes
 - Built a compiler-based **static-analysis pipeline** using libclang and Tree-sitter to extract functions, calls, reads, writes, and data relationships into a language-neutral code graph, including resolution of virtual-dispatch dependencies.
 - Developed **graph-based impact analysis** that traces affected callers, data dependencies, files, and entry points, enabling deterministic change-risk analysis without relying on LLM inference.
 - Engineered **graph-verified LLM explanations** that validate referenced functions and side effects against static-analysis evidence, flag unverifiable claims for human review, and preserve links back to source code.
-- Validated the system on real open-source C++ and Ada codebases spanning approximately **188K lines across 570+ files**, with support for offline/local operation after analysis.
+- Validated the system on real open-source C++ and Ada codebases spanning approximately **188K lines across 570+ files**, demonstrating the approach across large multi-language legacy codebases.
 
 **Tech:** Python · TypeScript · libclang · Tree-sitter · FastAPI · React · Static Analysis · Graph Analysis · LLMs
 
@@ -72,6 +76,8 @@ A geo-distributed, event-driven parcel tracking system designed to process real-
 
 [View Repository](https://github.com/bharanidharan27/geo-track)
 
+---
+
 ## Other Projects
 
 ### The Unofficial Guide — RAG Housing Assistant for ASU Students
@@ -87,11 +93,13 @@ Built an end-to-end RAG application that makes real housing experiences near ASU
 
 [View Repository](https://github.com/vineeth-utd/the-unofficial-guide)
 
+---
+
 ## Technical Areas
 
 **Languages:** Python · JavaScript/TypeScript · Clojure · Go · Java
 
-**Backend & Distributed Systems:** REST APIs · Apache Kafka · Redis · Distributed Processing · FastAPI · Node.js · GraphQL
+**Backend & Distributed Systems:** REST APIs · FastAPI · Node.js · GraphQL · Apache Kafka · Redis · Distributed Processing
 
 **Data & Databases:** SQL · PostgreSQL · MongoDB · CockroachDB · Qdrant · ChromaDB
 
@@ -105,16 +113,20 @@ Built an end-to-end RAG application that makes real housing experiences near ASU
 
 **Tools & Platforms:** Git · GitHub · Metabase · DBeaver · Claude Code · Cursor · Antigravity · GitHub Copilot
 
+---
+
 ## Currently Building
 
 I'm currently expanding the **Customer Intelligence Platform** with merchant and shopper profiles, journeys, segmentation, merchant health, and richer business analytics, building on its completed event-driven and incremental data-processing foundation.
 
 The next layer brings **evidence-grounded AI investigations** through controlled business tools, exact and semantic retrieval, an AI Gateway, and LangGraph-based investigation workflows.
 
+---
+
 ## Let's Connect
 
-I'm currently pursuing my M.S. in Computer Science at Arizona State University and exploring **2027 full-time opportunities** in Software Engineering, Backend & Distributed Systems, Data Engineering, and AI Engineering.
+I'm exploring **2027 full-time opportunities** in Software Engineering, Backend & Distributed Systems, Data Engineering, and AI Engineering.
 
-I'm especially interested in building **reliable, scalable systems and AI-powered applications** that solve real-world problems.
+I'm especially interested in building **reliable, scalable systems and AI-powered applications** that solve real-world problems and create meaningful business impact.
 
 [LinkedIn](https://www.linkedin.com/in/vineeth-subramaniam-j/) · [Email](mailto:vineeth.jaisankar@gmail.com)
