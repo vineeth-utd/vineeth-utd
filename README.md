@@ -104,3 +104,17 @@ Built an end-to-end RAG application that makes real housing experiences near ASU
 **Cloud & Infrastructure:** Microsoft Azure (Data Factory · Cosmos DB · Blob Storage · VMs) · Docker · Kubernetes · Jenkins · ArgoCD
 
 **Tools & Platforms:** Git · GitHub · Metabase · DBeaver · Claude Code · Cursor · Antigravity · GitHub Copilot
+
+## Currently Building
+
+I'm currently expanding the **Customer Intelligence Platform** with merchant and shopper profiles, journeys, segmentation, merchant health, and richer business analytics, building on its completed event-driven and incremental data-processing foundation.
+
+The next layer brings **evidence-grounded AI investigations** through controlled business tools, exact and semantic retrieval, an AI Gateway, and LangGraph-based investigation workflows.
+
+## Let's Connect
+
+I'm currently pursuing my M.S. in Computer Science at Arizona State University and exploring **2027 full-time opportunities** in Software Engineering, Backend & Distributed Systems, Data Engineering, and AI Engineering.
+
+I'm especially interested in building **reliable, scalable systems and AI-powered applications** that solve real-world problems.
+
+[LinkedIn](https://www.linkedin.com/in/vineeth-subramaniam-j/) · [Email](mailto:vineeth.jaisankar@gmail.com)
