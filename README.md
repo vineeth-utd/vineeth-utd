@@ -1,4 +1,4 @@
-# Hi, I'm Vineeth 👋
+# Vineeth Subramaniam
 
 ![ASU](https://img.shields.io/badge/Arizona_State_University-MS_Computer_Science-8C1D40?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-3%2B_Years_SWE-2563EB?style=flat-square)
