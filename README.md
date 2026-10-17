@@ -86,3 +86,21 @@ Built an end-to-end RAG application that makes real housing experiences near ASU
 **Tech:** Python · ChromaDB · Sentence Transformers · Groq · Gradio
 
 [View Repository](https://github.com/vineeth-utd/the-unofficial-guide)
+
+## Technical Areas
+
+**Languages:** Python · JavaScript/TypeScript · Clojure · Go · Java
+
+**Backend & Distributed Systems:** REST APIs · Apache Kafka · Redis · Distributed Processing · FastAPI · Node.js · GraphQL
+
+**Data & Databases:** SQL · PostgreSQL · MongoDB · CockroachDB · Qdrant · ChromaDB
+
+**Data Engineering:** ETL/ELT Workflows · Data Pipelines · Data Architecture · Data Modeling · Data Quality & Validation · Query Optimization · Data Transformation · API Integration
+
+**AI Engineering:** Agentic AI · LangGraph · LangChain · RAG · Tool Calling & Orchestration · Semantic Retrieval · Vector Databases · AI Evaluation · AI Guardrails
+
+**Frontend:** React · TypeScript
+
+**Cloud & Infrastructure:** Microsoft Azure (Data Factory · Cosmos DB · Blob Storage · VMs) · Docker · Kubernetes · Jenkins · ArgoCD
+
+**Tools & Platforms:** Git · GitHub · Metabase · DBeaver · Claude Code · Cursor · Antigravity · GitHub Copilot
