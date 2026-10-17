@@ -1,5 +1,10 @@
 # Hi, I'm Vineeth 👋
 
+![ASU](https://img.shields.io/badge/Arizona_State_University-MS_Computer_Science-8C1D40?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-3%2B_Years_SWE-2563EB?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Backend_%7C_Distributed_Systems_%7C_Data_%7C_AI-0F766E?style=flat-square)
+![Open to Work](https://img.shields.io/badge/2027-Full--Time_Opportunities-16A34A?style=flat-square)
+
 I'm an M.S. Computer Science student at Arizona State University, graduating in May 2027, with 3+ years of professional Software Engineering experience at **Swym Technologies**, where I built and scaled production SaaS systems used by millions of shoppers.
 
 My core strengths are in **backend engineering, distributed systems, data engineering, and databases**. I'm also actively deepening my expertise in **AI Engineering** by building reliable AI-powered applications with agentic AI, RAG, tool orchestration, semantic retrieval, evaluation, and guardrails.
@@ -10,7 +15,7 @@ I'm particularly interested in engineering at the intersection of **scalable sys
 
 ---
 
-## Engineering Highlights
+## ⚡ Engineering Highlights
 
 - **Built and scaled production SaaS systems at Swym Technologies** used by millions of shoppers, working across backend services, data workflows, databases, APIs, and customer-facing products.
 - **Redesigned a high-volume shopper segmentation workflow** from synchronous processing to Redis-based asynchronous distributed processing, reducing runtime for 100K shoppers from **7–8 hours to 1–2 hours** while enabling horizontal scalability.
@@ -18,7 +23,7 @@ I'm particularly interested in engineering at the intersection of **scalable sys
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Customer Intelligence Platform
 **Jul 2026 – Present** · Event-Driven Systems · Data Engineering · Backend · AI Engineering
@@ -78,7 +83,7 @@ A geo-distributed, event-driven parcel tracking system designed to process real-
 
 ---
 
-## Other Projects
+## 🧩 Other Projects
 
 ### The Unofficial Guide — RAG Housing Assistant for ASU Students
 **Jun 2026** · RAG · Semantic Retrieval · Retrieval Evaluation
@@ -95,7 +100,7 @@ Built an end-to-end RAG application that makes real housing experiences near ASU
 
 ---
 
-## Technical Areas
+## 🛠️ Technical Areas
 
 **Languages:** Python · JavaScript/TypeScript · Clojure · Go · Java
 
@@ -115,7 +120,7 @@ Built an end-to-end RAG application that makes real housing experiences near ASU
 
 ---
 
-## Currently Building
+## 🚧 Currently Building
 
 I'm currently expanding the **Customer Intelligence Platform** with merchant and shopper profiles, journeys, segmentation, merchant health, and richer business analytics, building on its completed event-driven and incremental data-processing foundation.
 
@@ -123,7 +128,7 @@ The next layer brings **evidence-grounded AI investigations** through controlled
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
 I'm exploring **2027 full-time opportunities** in Software Engineering, Backend & Distributed Systems, Data Engineering, and AI Engineering.
 
