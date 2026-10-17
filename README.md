@@ -8,3 +8,8 @@ I'm particularly interested in engineering at the intersection of **scalable sys
 
 [LinkedIn](https://www.linkedin.com/in/vineeth-subramaniam-j/) · [Email](mailto:vineeth.jaisankar@gmail.com)
 
+## Engineering Highlights
+
+- **Built and scaled production SaaS systems at Swym Technologies** used by millions of shoppers, working across backend services, data workflows, databases, APIs, and customer-facing products.
+- **Redesigned a high-volume shopper segmentation workflow** from synchronous processing to Redis-based asynchronous distributed processing, reducing runtime for 100K shoppers from **7–8 hours to 1–2 hours** while enabling horizontal scalability.
+- **Led the end-to-end development of Nudges**, a personalized marketing automation platform, from early development through production and go-to-market, contributing to approximately **$520K in revenue across 25 pilot merchants**.
