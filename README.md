@@ -11,7 +11,7 @@ My core strengths are in **backend engineering, distributed systems, data engine
 
 I'm particularly interested in engineering at the intersection of **scalable systems, data, and AI** — building reliable products that solve real-world problems.
 
-[LinkedIn](https://www.linkedin.com/in/vineeth-subramaniam-j/) · [Email](mailto:vineeth.jaisankar@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/vineeth-subramaniam-j/) · ✉️ [Email](mailto:vineeth.jaisankar@gmail.com)
 
 ---
 
@@ -37,7 +37,7 @@ A production-inspired, event-driven platform that transforms merchant, shopper, 
 
 **Tech:** Python · FastAPI · Apache Kafka · PostgreSQL · React · TypeScript · Docker · LangGraph · Qdrant
 
-[View Repository](https://github.com/vineeth-utd/customer-intelligence-platform)
+🔗 [View Repository](https://github.com/vineeth-utd/customer-intelligence-platform)
 
 ### TimeLedger — AI-Powered Time Tracking & Productivity Platform
 **Jul 2026 – Oct 2026** · Agentic AI · Full-Stack Engineering · Reliable AI Workflows
@@ -51,7 +51,7 @@ A production-deployed productivity platform for time tracking, weekly goals, ana
 
 **Tech:** Next.js · React · PostgreSQL/Supabase · Prisma · LangGraph · LangChain · Whisper · Vercel
 
-[Live Demo](https://timeledger-app.vercel.app) · [View Repository](https://github.com/vineeth-utd/TimeLedger)
+🌐 [Live Demo](https://timeledger-app.vercel.app) · 🔗 [View Repository](https://github.com/vineeth-utd/TimeLedger)
 
 ### AeroTrace — AI-Powered Legacy Code Intelligence
 **Oct 2026** · Static Analysis · Impact Analysis · Evidence-Grounded AI
@@ -65,7 +65,7 @@ Built at the **Honeywell Aerospace Devils Invent Hackathon**, AeroTrace analyzes
 
 **Tech:** Python · TypeScript · libclang · Tree-sitter · FastAPI · React · Static Analysis · Graph Analysis · LLMs
 
-[View Repository](https://github.com/aayushswami123/aerotrace-hack/)
+🔗 [View Repository](https://github.com/aayushswami123/aerotrace-hack)
 
 ### GeoTrack — Distributed Parcel Tracking & ETA Service
 **Aug 2025 – Dec 2025** · Distributed Systems · Event Streaming · Distributed Databases
@@ -79,7 +79,7 @@ A geo-distributed, event-driven parcel tracking system designed to process real-
 
 **Tech:** Apache Kafka · CockroachDB · FastAPI · Python · Prometheus · Grafana
 
-[View Repository](https://github.com/bharanidharan27/geo-track)
+🔗 [View Repository](https://github.com/bharanidharan27/geo-track)
 
 ---
 
@@ -96,7 +96,7 @@ Built an end-to-end RAG application that makes real housing experiences near ASU
 
 **Tech:** Python · ChromaDB · Sentence Transformers · Groq · Gradio
 
-[View Repository](https://github.com/vineeth-utd/the-unofficial-guide)
+🔗 [View Repository](https://github.com/vineeth-utd/the-unofficial-guide)
 
 ---
 
@@ -134,4 +134,4 @@ I'm exploring **2027 full-time opportunities** in Software Engineering, Backend 
 
 I'm especially interested in building **reliable, scalable systems and AI-powered applications** that solve real-world problems and create meaningful business impact.
 
-[LinkedIn](https://www.linkedin.com/in/vineeth-subramaniam-j/) · [Email](mailto:vineeth.jaisankar@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/vineeth-subramaniam-j/) · ✉️ [Email](mailto:vineeth.jaisankar@gmail.com)
